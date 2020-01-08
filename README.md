@@ -1,3 +1,5 @@
+![AutoSource architecture](https://github.com/vlukic973/ConvoSource2/AutoSource_architecture.png)
+
 Python code for source-finding in radio astronomical images
 
 First go to the SDC1 webpage https://astronomers.skatelescope.org/ska-science-data-challenge-1/ and download the primary beams across the three frequencies (560, 1400 and 9200 MHz) under ‘Ancillary data’. Also download the 9 FITS files under ‘Data’ as well as the 3 ‘Training set’ files. The 9 data files are for 3 different exposure times (8h, 100h and 1000h) as well as the 3 different frequencies. There are only 3 training set files as they only depend on the frequency.
