@@ -1,4 +1,4 @@
-![AutoSource architecture](/Users/vesna/Desktop/ConvoSource2/AutoSource_architecture.png)
+![AutoSource architecture](https://github.com/vlukic973/ConvoSource2/blob/master/AutoSource_architecture.png)
 
 Python code for source-finding in radio astronomical images
 
